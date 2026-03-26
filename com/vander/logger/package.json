@@ -1,0 +1,10 @@
+{
+  "name": "com.vander.logger",
+  "version": "1.0.0",
+  "displayName": "Vander Logger",
+  "description": "Custom logging system for Unity",
+  "unity": "2021.3",
+  "author": {
+    "name": "Arnaud Vander"
+  }
+}
